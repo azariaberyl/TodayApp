@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Today\'s Lists </string>
+    <string name="open_drawer">Open Drawable</string>
+    <string name="close_drawer">Close Drawable</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
